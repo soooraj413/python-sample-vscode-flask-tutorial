@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  TEST
+  azure pipelines
 
 strategy:
   matrix:
